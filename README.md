@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm SYED NUMAN AHMED
 
 I'm a passionate and curious **web developer** on a journey to build modern, full-stack web applications. I love turning ideas into code and am always learning something new.
 
