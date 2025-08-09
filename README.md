@@ -10,18 +10,18 @@ I'm a passionate and curious **web developer** on a journey to build modern, ful
 - ✅ HTML5
 - 🎨 CSS3
 - 🎨 Tailwind css
-- ⚛️ React.js *(learning)*
+- ⚛️ React.js
 - 📦 Next.js *(learning)*
 
 ### 🔧 Backend
 - 🐘 PHP
 - 🛠️ Laravel
-- 🌐 Node.js *(learning)*
-- 🔄 Express.js *(learning)*
+- 🌐 Node.js
+- 🔄 Express.js
 
 ### 🗄️ Database & Backend Services
 - 🐬 MySQL
-- 🍃 MongoDB *(learning)*
+- 🍃 MongoDB
 - 🔥 Firebase *(for auth & hosting)*
 
 ---
@@ -30,10 +30,7 @@ I'm a passionate and curious **web developer** on a journey to build modern, ful
 
 | Tech Stack     | Status          |
 |----------------|------------------|
-| Node.js        | 🟡 In Progress   |
-| Express.js     | 🟡 In Progress   |
-| React.js       | 🟡 In Progress   |
-| MongoDB        | 🟡 In Progress   |
+| Redux for state management        | 🟡 In Progress   |
 | Next.js        | 🟡 In Progress   |
 
 ---
@@ -58,7 +55,6 @@ I'm a passionate and curious **web developer** on a journey to build modern, ful
 Currently working on small full-stack projects that combine:
 - React + Firebase
 - MERN stack (MongoDB, Express, React, Node)
-- Next.js apps
 
 Deploying with platforms like **Netlify**, **Vercel**, and **Firebase Hosting**.
 
@@ -66,9 +62,8 @@ Deploying with platforms like **Netlify**, **Vercel**, and **Firebase Hosting**.
 
 ## 📫 Let's Connect!
 
-- 🌐 [Portfolio Website](https://yourwebsite.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 🌐 [Portfolio Website](https://syed1708.github.io/syed.me/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/syed2001/)
 - 📧 Email: syed.web2001@gmail.com
 
 ---
